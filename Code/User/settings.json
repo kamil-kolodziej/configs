@@ -1,0 +1,28 @@
+{
+    "editor.suggestSelection": "first",
+    "editor.rulers": [80, 120],
+
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Microsoft",
+    "window.zoomLevel": -1,
+    "workbench.iconTheme": "vscode-icons",
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "python.autoComplete.addBrackets": true,
+    "python.formatting.autopep8Args": ["--max-line-length", "120", "--experimental"],
+    "python.formatting.yapfArgs": ["--style", "{based_on_style: chromium, indent_width: 20}"],
+    "python.formatting.blackArgs": ["--line-length", "100"],
+
+    "search.exclude": {
+        "**/.git": true,
+        "**/.venv": true,
+        "**/.venv3": true,
+        "**/tmp": true,
+        "**/node_modules": true,
+        "**/*.pyc": true,
+        "**/__pycache__/": true
+    },
+    "python.linting.prospectorEnabled": true,
+    "python.linting.banditEnabled": true
+}
