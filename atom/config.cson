@@ -1,0 +1,27 @@
+"*":
+  "advanced-open-file":
+    createDirectories: true
+    defaultInputValue: "Project root"
+    fuzzyMatch: true
+  core:
+    disabledPackages: [
+      "linter-csslint"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 12
+    preferredLineLength: 120
+    zoomFontWhenCtrlScrolling: false
+  "exception-reporting":
+    userId: "f73c2e51-5f16-4df8-85a1-d58727d73adb"
+  "linter-eslint": {}
+  "linter-flake8":
+    maxLineLength: 120
+  "linter-ui-default": {}
+  "python-autopep8":
+    maxLineLength: 120
+  welcome:
+    showOnStartup: false
+".django.python.source":
+  editor:
+    autoIndentOnPaste: true
