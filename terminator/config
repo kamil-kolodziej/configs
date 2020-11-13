@@ -13,24 +13,6 @@
       parent = ""
       type = Window
       size = 960, 540
-  [[siege]]
-    [[[child0]]]
-      fullscreen = False
-      last_active_term = a0c35af4-5073-4942-9607-ca4d301e1cec
-      last_active_window = True
-      maximised = False
-      order = 0
-      parent = ""
-      position = -4:0
-      title = kolek@kolek-E320: ~
-      type = Window
-    [[[terminal1]]]
-      command = ""
-      order = 0
-      parent = child0
-      profile = default
-      type = Terminal
-      uuid = a0c35af4-5073-4942-9607-ca4d301e1cec
 [plugins]
 [profiles]
   [[default]]
