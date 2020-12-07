@@ -1,5 +1,6 @@
 put keybindings.json and settings.json to ~/.config/Code/User/ 
 
+$ pip install prospector
 
 print vs extensions to install:
 $ code --list-extensions | xargs -L 1 echo code --install-extension
