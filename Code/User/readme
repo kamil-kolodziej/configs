@@ -20,6 +20,7 @@ code --install-extension ms-toolsai.jupyter
 code --install-extension pflannery.vscode-versionlens
 code --install-extension shd101wyy.markdown-preview-enhanced
 code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension VinceSalvino.dark-plus-black
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscode-icons-team.vscode-icons
 
