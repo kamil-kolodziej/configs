@@ -22,5 +22,3 @@
     scrollback_infinite = True
     scrollbar_position = hidden
     show_titlebar = False
-  [[green]]
-    foreground_color = "#00ff00"
