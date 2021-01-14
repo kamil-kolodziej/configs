@@ -43,7 +43,7 @@ RunClipboard=Alt+Shift+F2
 _launch=Alt+Space; Alt+F2
 
 [ksmserver][Global Shortcuts]
-Halt Without Confirmation=Ctrl+Alt+Shift+PgDown
+Halt Without Confirmation=none
 Lock Session=Ctrl+Alt+L; Screensaver
 Log Out=Ctrl+Alt+Del
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del
