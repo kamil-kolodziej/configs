@@ -2,6 +2,8 @@ put keybindings.json and settings.json to ~/.config/Code/User/
 
 $ pip install prospector
 
+$ bash -c "$(wget -q -O - https://linux.kite.com/dls/linux/current)"
+
 print vs extensions to install:
 $ code --list-extensions | xargs -L 1 echo code --install-extension
 
