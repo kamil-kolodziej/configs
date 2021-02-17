@@ -7,7 +7,7 @@
     "window.zoomLevel": -1,
     "workbench.iconTheme": "vscode-icons",
     "python.autoComplete.extraPaths": [
-    
+
     ],
     "python.autoComplete.addBrackets": true,
     "python.formatting.autopep8Args": ["--max-line-length", "120", "--experimental"],
@@ -25,5 +25,6 @@
     },
     "python.linting.prospectorEnabled": true,
     "python.linting.banditEnabled": true,
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
 }
