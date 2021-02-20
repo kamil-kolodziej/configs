@@ -1,0 +1,11 @@
+# install zsh
+sudo apt install zsh
+
+# install oh-my-zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# zsh-autosuggestions plugin
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+
+# add plugin to .zshrc
+plugins=(git zsh-autosuggestions)
