@@ -1,4 +1,4 @@
-put keybindings.json and settings.json to ~/.config/Code/User/ 
+put keybindings.json and settings.json to ~/.config/Code/User/
 
 $ pip install prospector
 
@@ -16,6 +16,7 @@ code --install-extension jock.svg
 code --install-extension KevinRose.vsc-python-indent
 code --install-extension magicstack.MagicPython
 code --install-extension mikestead.dotenv
+code --install-extension mrmlnc.vscode-duplicate
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
