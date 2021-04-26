@@ -29,3 +29,4 @@ code --install-extension vscode-icons-team.vscode-icons
 code --install-extension rambit.highlight-counter
 code --install-extension sensourceinc.vscode-sql-beautify
 code --install-extension vscodevim.vim
+code --install-extension yzane.markdown-pdf
