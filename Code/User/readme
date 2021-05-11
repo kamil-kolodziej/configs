@@ -4,6 +4,11 @@ $ pip install prospector
 
 $ bash -c "$(wget -q -O - https://linux.kite.com/dls/linux/current)"
 
+install mypy
+$ python -m venv ~/.mypyls
+$ ~/.mypyls/bin/pip install "https://github.com/matangover/mypyls/archive/master.zip#egg=mypyls[default-mypy]"
+
+
 print vs extensions to install:
 $ code --list-extensions | xargs -L 1 echo code --install-extension
 
@@ -31,3 +36,4 @@ code --install-extension sensourceinc.vscode-sql-beautify
 code --install-extension vscodevim.vim
 code --install-extension yzane.markdown-pdf
 code --install-extension lextudio.restructuredtext
+code --install-extension matangover.mypy
