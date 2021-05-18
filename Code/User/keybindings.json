@@ -2,18 +2,18 @@
 [
     {
         "key": "alt+right",
-        "command": "cursorLineEnd"
+        "command": "cursorEnd"
     },
     {
         "key": "shift+alt+right",
-        "command": "cursorLineEndSelect"
+        "command": "cursorEndSelect"
     },
     {
         "key": "alt+left",
-        "command": "cursorLineStart"
+        "command": "cursorHome"
     },
     {
         "key": "shift+alt+left",
-        "command": "cursorLineStartSelect"
+        "command": "cursorHomeSelect"
     }
 ]
