@@ -8,4 +8,4 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 # add plugin to .zshrc
-plugins=(git zsh-autosuggestions)
+plugins=(git zsh-autosuggestions dotenv)
