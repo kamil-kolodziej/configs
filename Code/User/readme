@@ -37,3 +37,4 @@ code --install-extension vscodevim.vim
 code --install-extension yzane.markdown-pdf
 code --install-extension lextudio.restructuredtext
 code --install-extension matangover.mypy
+code --install-extension cstrap.python-snippets
