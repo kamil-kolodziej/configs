@@ -27,4 +27,6 @@
     "python.linting.banditEnabled": true,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
+    "window.customMenuBarAltFocus": false,
+    "window.titleBarStyle": "custom",
 }
