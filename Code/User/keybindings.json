@@ -1,4 +1,3 @@
-// Place your key bindings in this file to override the defaults
 [
     {
         "key": "alt+right",
@@ -15,5 +14,22 @@
     {
         "key": "shift+alt+left",
         "command": "cursorHomeSelect"
+    },
+
+    {
+        "key": "alt+ctrl+left",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "alt+ctrl+right",
+        "command": "workbench.action.navigateForward"
+    },
+    {
+        "key": "ctrl+k alt+right",
+        "command": "workbench.action.moveEditorToNextGroup"
+    },
+    {
+        "key": "ctrl+k alt+left",
+        "command": "workbench.action.moveEditorToPreviousGroup"
     }
 ]
